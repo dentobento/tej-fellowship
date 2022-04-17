@@ -6,7 +6,6 @@ function hello(){
 
 counter =0 ;
 
-
 function display(){
     document.getElementById("text_box").value=counter;
 }
